@@ -1,3 +1,0 @@
-/root/vectortools/build/build-cpp11/CMakeFiles/vtool_test.dir
-/root/vectortools/build/build-cpp11/CMakeFiles/edit_cache.dir
-/root/vectortools/build/build-cpp11/CMakeFiles/rebuild_cache.dir
