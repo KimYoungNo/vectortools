@@ -1,3 +1,0 @@
-/root/vectortools/cmake/build/clang-11/CMakeFiles/vtool_test.dir
-/root/vectortools/cmake/build/clang-11/CMakeFiles/edit_cache.dir
-/root/vectortools/cmake/build/clang-11/CMakeFiles/rebuild_cache.dir
