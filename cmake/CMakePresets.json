@@ -5,7 +5,7 @@
       "name": "base",
       "hidden": true,
       "generator": "Unix Makefiles",
-      "binaryDir": "${sourceDir}/${presetName}"
+      "binaryDir": "${sourceDir}/build/${presetName}"
     },
     {
       "name": "gcc-base",
